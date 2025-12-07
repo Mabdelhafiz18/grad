@@ -1,0 +1,53 @@
+[
+  {
+    "foul_id": 1,
+    "player_committed": 5,
+    "player_suffered": 10,
+    "timestamp": 180.5,
+    "x": 50.0,
+    "y": 30.0,
+    "severity": "minor",
+    "is_correct": true
+  },
+  {
+    "foul_id": 2,
+    "player_committed": 8,
+    "player_suffered": 6,
+    "timestamp": 234.2,
+    "x": 45.5,
+    "y": 55.0,
+    "severity": "major",
+    "is_correct": true
+  },
+  {
+    "foul_id": 3,
+    "player_committed": 3,
+    "player_suffered": 9,
+    "timestamp": 389.7,
+    "x": 30.0,
+    "y": 25.0,
+    "severity": "yellow_card",
+    "is_correct": false
+  },
+  {
+    "foul_id": 4,
+    "player_committed": 11,
+    "player_suffered": 4,
+    "timestamp": 512.3,
+    "x": 75.0,
+    "y": 60.0,
+    "severity": "minor",
+    "is_correct": true
+  },
+  {
+    "foul_id": 5,
+    "player_committed": 6,
+    "player_suffered": 7,
+    "timestamp": 678.1,
+    "x": 55.0,
+    "y": 45.0,
+    "severity": "red_card",
+    "is_correct": true
+  }
+]
+

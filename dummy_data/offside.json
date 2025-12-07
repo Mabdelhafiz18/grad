@@ -1,0 +1,31 @@
+[
+  {
+    "player_id": 9,
+    "timestamp": 245.3,
+    "x": 85.2,
+    "y": 45.0,
+    "is_correct": true
+  },
+  {
+    "player_id": 11,
+    "timestamp": 312.7,
+    "x": 88.5,
+    "y": 38.2,
+    "is_correct": false
+  },
+  {
+    "player_id": 7,
+    "timestamp": 456.1,
+    "x": 82.0,
+    "y": 52.5,
+    "is_correct": true
+  },
+  {
+    "player_id": 9,
+    "timestamp": 578.9,
+    "x": 90.0,
+    "y": 40.0,
+    "is_correct": true
+  }
+]
+
